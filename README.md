@@ -1,4 +1,4 @@
-# kelvin-frontend-challenge
+# weather-checker
 
 ## Project setup
 ```
